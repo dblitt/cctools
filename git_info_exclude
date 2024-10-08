@@ -5,14 +5,16 @@
 # *.[oa]
 # *~
 
-chirp/test/bar.txt
-doc/manuals/api/html/
-dttools/src/hash_table_fromkey_test
-dttools/src/hash_table_offset_test
-makeflow/test/vine-run-info
-taskvine/test/vine-factory-*
-taskvine/test/factory.log
-taskvine/test/vine.status
-work_queue/src/uge_submit_workers
-work_queue/test/wq-factory-*
-work_queue/test/serverless_function.py
+/chirp/test/bar.txt
+/doc/manuals/api/html/
+/dttools/src/hash_table_fromkey_test
+/dttools/src/hash_table_offset_test
+/makeflow/test/vine-run-info
+/taskvine/test/vine-factory-*
+/taskvine/test/factory.log
+/taskvine/test/vine.status
+/work_queue/src/uge_submit_workers
+/work_queue/test/wq-factory-*
+/work_queue/test/serverless_function.py
+/.vscode/
+/compile_commands.json
